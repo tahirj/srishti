@@ -22,6 +22,8 @@ return array(
     'App\\Http\\Livewire\\ContactusComponent' => $baseDir . '/app/Http/Livewire/ContactusComponent.php',
     'App\\Http\\Livewire\\HomeComponent' => $baseDir . '/app/Http/Livewire/HomeComponent.php',
     'App\\Http\\Livewire\\ReporterComponent' => $baseDir . '/app/Http/Livewire/ReporterComponent.php',
+    'App\\Http\\Livewire\\ReporterInfComponent' => $baseDir . '/app/Http/Livewire/ReporterInfComponent.php',
+    'App\\Http\\Livewire\\SinglenewsComponent' => $baseDir . '/app/Http/Livewire/SinglenewsComponent.php',
     'App\\Http\\Livewire\\VideonewsComponent' => $baseDir . '/app/Http/Livewire/VideonewsComponent.php',
     'App\\Http\\Livewire\\WebnewsComponent' => $baseDir . '/app/Http/Livewire/WebnewsComponent.php',
     'App\\Http\\Middleware\\AuthAdmin' => $baseDir . '/app/Http/Middleware/AuthAdmin.php',
