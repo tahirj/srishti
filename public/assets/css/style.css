@@ -493,6 +493,7 @@
   .img-fluid {
     max-width: 100%;
     height: auto;
+    width: 1282px;
   }
   
   .img-thumbnail {
@@ -889,8 +890,8 @@
       max-width: 41.66667%;
     }
     .col-sm-6 {
-      flex: 0 0 50%;
-      max-width: 50%;
+      flex: 0 0 100%;
+      /* max-width: 50%; */
     }
     .col-sm-7 {
       flex: 0 0 58.33333%;

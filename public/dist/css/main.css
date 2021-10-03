@@ -9,7 +9,7 @@ text-align:center;
 }
 
 #cover {
-  background: #222 url('https://unsplash.it/1920/1080/?random') center center no-repeat;
+  background: #222 url(/public/assets/images/background.jpg) center center no-repeat;
   background-size: cover;
   height: 100%;
   text-align: center;
